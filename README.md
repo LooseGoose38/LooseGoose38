@@ -7,6 +7,6 @@
 
 Programming Languages 
 
-![Java](\Users\gustm\Downloads\Java.ico)
+![Java](Java.ico)
 
 
