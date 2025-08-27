@@ -7,6 +7,6 @@
 
 Programming Languages 
 
-<img src = "Java.ico" width="50" height="50">
+<img src = "docs/Java.ico" width="50" height="50">
 
 
