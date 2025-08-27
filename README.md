@@ -1,4 +1,4 @@
-## Hi there, Im Gus 👋
+## Hi there, I'm Gus 👋
 
 
 **Major: Computer Science**
@@ -7,6 +7,6 @@
 
 Programming Languages 
 
-![Java](Java.ico)
+<img src = "Java.ico" width="50" height="50">
 
 
