@@ -3,10 +3,17 @@
 
 **Major: Computer Science**
 
-**No Projects in Progress**
+I currently have no project in progress, but here are a few I did for CS-1180 last semester!
 
-Programming Languages 
+\- Project 3 - Word Game
 
+\- Project 4 - Catacomb Crawler
+
+Programming Languages |
+
+                      
 <img src = "docs/Java.ico" width="50" height="50">
+
+
 
 
