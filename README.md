@@ -13,9 +13,8 @@ I am a Computer Science student specializing in game development, systems archit
 ###  Featured Projects
 
 * **[The Closing Shift](https://github.com/WSU-mgilson/game-jam-b-guscendejas/tree/main/The%20Closing%20Shift):** A 3D first-person game developed in Unity, featuring custom C# physics and complex input mapping.
-* **[HeatBridge Thermal Management](#):** A liquid-cooled micro data center architecture proposal integrating neural-network workload scheduling.
-* **[Automated Media Architecture](#):** A secure, self-hosted media environment utilizing OpenVPN, Rclone, and custom routing.
+* **HeatBridge Thermal Management:** A liquid-cooled micro data center architecture proposal integrating neural-network workload scheduling.
+* **Automated Media Architecture:** A secure, self-hosted media environment utilizing OpenVPN, Rclone, and custom routing.
 * **2D Java Adventure:** Engineering event-driven mechanics and GUI interactions in a 2D environment.
 
-* ### 📫 Let's Connect
-* **Email:** gustmary10@gmail.com
+**Email:** gustmary10@gmail.com
