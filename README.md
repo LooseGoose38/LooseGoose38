@@ -1,6 +1,5 @@
 # Hi there, I'm Gus
 
-I am a Computer Science student specializing in game development, systems architecture, and software engineering. I enjoy building everything from 3D interactive experiences to secure, automated networking environments.
 
 ###  Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
