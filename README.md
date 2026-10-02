@@ -9,11 +9,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-###  Featured Projects
+##  Featured Projects
 
-* **[The Closing Shift](https://github.com/LooseGoose38/The-Closing-Shift):** A 3D first-person game developed in Unity, featuring custom C# physics and complex input mapping.
-* **HeatBridge Thermal Management:** A liquid-cooled micro data center architecture proposal integrating neural-network workload scheduling.
-* **Automated Media Architecture:** A secure, self-hosted media environment utilizing OpenVPN, Rclone, and custom routing.
-* **2D Java Adventure:** Engineering event-driven mechanics and GUI interactions in a 2D environment.
+- **[S.T.A.T.S.](https://github.com/LooseGoose38/S.T.A.T.S):** A full-stack cross-platform gaming dashboard built with Node.js, Express, and MongoDB. Features a custom Puppeteer web scraper with RAM-based caching and a responsive, glassmorphic UI.
+- **[The Closing Shift](https://github.com/LooseGoose38/The-Closing-Shift):** A 3D first-person game developed in Unity, featuring custom C# physics and complex input mapping.
+- **HeatBridge Thermal Management:** A liquid-cooled micro data center architecture proposal integrating neural-network workload scheduling.
+- **Automated Media Architecture:** A secure, self-hosted media environment utilizing OpenVPN, Rclone, and custom routing.
+- **2D Java Adventure:** Engineering event-driven mechanics and GUI interactions in a 2D environment.
 
 **Email:** gustmary10@gmail.com
